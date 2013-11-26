@@ -2,12 +2,12 @@
 
 Summary:	Multiple hypothesis testing library from Bioconductor
 Name:		R-%{packname}
-Version:	2.14.0
+Version:	2.18.0
 Release:	1
 License:	LGPL v2+
 Group:		X11/Applications
 Source0:	http://www.bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
-# Source0-md5:	2cbfe12636fc0865e8fc3fe56272fa5f
+# Source0-md5:	265ed65e1e7b6c1796a5bbb22519fd18
 URL:		http://www.bioconductor.org/packages/release/bioc/html/multtest.html
 BuildRequires:	R-Biobase
 BuildRequires:	R
